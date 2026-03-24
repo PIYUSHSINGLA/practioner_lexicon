@@ -1,0 +1,42 @@
+/* === PM Knowledge Base — Adapta-Inspired Theme === */
+
+:root {
+  --sans: 'Inter', system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
+  --mono: 'IBM Plex Mono', ui-monospace, Consolas, monospace;
+  --serif: 'Playfair Display', Georgia, serif;
+  --blue: #2845FF;
+  --navy: #0F1035;
+
+  font: 15px/150% var(--sans);
+  letter-spacing: 0.1px;
+  color-scheme: light;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-rendering: optimizeLegibility;
+}
+
+* { box-sizing: border-box; }
+
+body {
+  margin: 0;
+  background: #F8F9FF;
+}
+
+#root {
+  width: 100%;
+  min-height: 100svh;
+  display: flex;
+  flex-direction: column;
+}
+
+/* Scrollbar */
+::-webkit-scrollbar { width: 5px; }
+::-webkit-scrollbar-track { background: transparent; }
+::-webkit-scrollbar-thumb { background: #C7D2FE; border-radius: 4px; }
+::-webkit-scrollbar-thumb:hover { background: #818CF8; }
+
+/* Nav scrollbar hidden */
+nav::-webkit-scrollbar { display: none; }
+
+input::placeholder { color: rgba(255,255,255,0.45); }
+.light-input::placeholder { color: #9CA3AF !important; }
