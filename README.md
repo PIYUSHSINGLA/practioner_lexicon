@@ -8,15 +8,29 @@ Live site: [https://piyushsingla.github.io/practioner_lexicon/](https://piyushsi
 
 ## Domains covered
 
-| Domain | Domain | Domain |
-|---|---|---|
-| Project Management | Strategy & Consulting | Planning & Scheduling |
-| Agile & Lean | Delivery & Execution | Risk & Quality |
-| Documents & Artifacts | Product Management | UX & Design |
-| Growth & Analytics | Sales & Commercial | Client & Account Mgmt |
-| Finance & Business | People, Leadership & Culture | Software Architecture |
-| Engineering & Dev | Data & AI | Cloud & DevOps |
-| Operations & Support | Industry & Domain | Process & Governance |
+| Domain |
+|---|
+| Project Management |
+| Strategy & Consulting |
+| Planning & Scheduling |
+| Agile & Lean |
+| Delivery & Execution |
+| Risk & Quality |
+| Documents & Artifacts |
+| Product Management |
+| UX & Design |
+| Growth & Analytics |
+| Sales & Commercial |
+| Client & Account Mgmt |
+| Finance & Business |
+| People, Leadership & Culture |
+| Software Architecture |
+| Engineering & Dev |
+| Data & AI |
+| Cloud & DevOps |
+| Operations & Support |
+| Industry & Domain |
+| Process & Governance |
 
 ---
 
