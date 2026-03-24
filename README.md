@@ -1,6 +1,6 @@
 # The Practitioner's Lexicon
 
-An interactive knowledge base covering **1,190+ terms** across **21 domains** — the shared language of strategy, delivery, product, data, and technology.
+An interactive knowledge base covering **1,000+ terms** across **20+ domains** — the shared language of strategy, delivery, product, data, and technology.
 
 Live site: [https://piyushsingla.github.io/practioner_lexicon/](https://piyushsingla.github.io/practioner_lexicon/)
 
